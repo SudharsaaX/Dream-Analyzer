@@ -1,0 +1,8 @@
+pandas
+nltk
+datasets
+textblob
+NRCLex
+streamlit
+wordcloud
+matplotlib
