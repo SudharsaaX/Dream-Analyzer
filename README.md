@@ -141,12 +141,12 @@ git push origin feature/YourFeature
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📞 Contact
 
 For questions or suggestions, please contact [SudharsaaX](https://github.com/SudharsaaX).
+
+---
+
+## 🙏 Special Thanks
+
+Special thanks to [@Tamil157](https://github.com/Tamil157) for valuable support and contributions to this project!
